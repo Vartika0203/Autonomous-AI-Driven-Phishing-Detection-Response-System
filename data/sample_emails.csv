@@ -1,0 +1,5 @@
+email,label
+"Urgent! Verify your bank account now",phishing
+"Your account has been compromised. Click here",phishing
+"Meeting scheduled at 10 AM tomorrow",legitimate
+"Project report attached for review",legitimate
